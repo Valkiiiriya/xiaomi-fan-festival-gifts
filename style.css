@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-  background: url("https://mi.by/upload/iblock/f98/14bl6bjondywwbwbyo4w2onql2cronvc.webp");
+  background: url("https://mi.by/upload/iblock/325/gs8byqkgxqoe4ncj066sq44iecnkinfa.png");
   background-size: 100% auto;
   background-repeat: repeat;
 }
@@ -733,6 +733,6 @@ body h2 {
   color: #ff6700;
 }
 
-.love_color {
-  color: #41108E;
+.xff_color {
+  color: #fff;
 }
