@@ -135,17 +135,17 @@ body h2 {
   position: relative;
 }
 
-/*.img_background_1 {
-  background-image: url("https://mi.by/upload/medialibrary/a47/e3wt6jvw1bkoc2w5c31t82umg4loq26d.png");
+.img_background_1 {
+  background-image: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png");
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .img_background_2 {
-  background-image: url("https://mi.by/upload/medialibrary/35a/plgtr36n1bt680odaxpl4qg65t6ggtmc.png");
+  background-image: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png");
   background-repeat: no-repeat;
   background-position: center center;
-}*/
+}
 
 /* При наведении на карточку - появляется тень */
 .card:hover {
