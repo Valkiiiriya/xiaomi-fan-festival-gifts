@@ -239,6 +239,10 @@ body h2 {
   height: 55px;
 }
 
+.card_name_gifts {
+  height: 85px;
+}
+
 .card__bottom {
   display: flex;
   flex-direction: column;
