@@ -5,9 +5,7 @@ body {
   /*background: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png");*/
   background-size: auto auto;
   background-position: top;
-  /*background-color: rgb(241, 233, 226);*/
   background-repeat: repeat;
-  /*background-color: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png"), linear-gradient(162deg, rgba(241, 233, 226, 1) 0%, rgba(210, 187, 168, 1) 49%, rgba(231, 221, 212, 1) 79%);*/
   
 }
 
@@ -520,14 +518,14 @@ body h2 {
 
   .card__price--credit,
   .card__price--gift {
-    font-size: 14px;
+    font-size: 16px;
     padding: 6px;
   }
 
   .card__price--credit::before,
   .card__price--gift::before {
-    width: 14px;
-    height: 14px;
+    width: 16px;
+    height: 16px;
   }
 
   .card__price--discount::before {
@@ -615,13 +613,13 @@ body h2 {
 
   .card__price--gift::before,
   .card__price--credit::before {
-    width: 11px;
-    height: 11px;
+    width: 16px;
+    height: 16px;
   }
   
   .card__price--gift,
   .card__price--credit {
-    font-size: 11px;
+    font-size: 16px;
     padding: 5px;
   }
 
