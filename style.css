@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-  background-image: linear-gradient(180deg, #E9D1B9 0%, #E9D1B9 25%, #F3E3CC 50%, #E9D1B9 75%, #DCB894 100%);
+  background-image: url("https://mi.by/upload/iblock/3b4/8w303kzrd7o2yzvhxfl3mwhckgit821v.png"), linear-gradient(180deg, #E9D1B9 0%, #E9D1B9 25%, #F3E3CC 50%, #E9D1B9 75%, #DCB894 100%);
   /*background: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png");*/
   background-size: 100% auto;
   /*background-color: rgb(241, 233, 226);*/
-  background-repeat: repeat;
+  background-repeat: repeat-y;
   /*background-color: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png"), linear-gradient(162deg, rgba(241, 233, 226, 1) 0%, rgba(210, 187, 168, 1) 49%, rgba(231, 221, 212, 1) 79%);*/
   
 }
