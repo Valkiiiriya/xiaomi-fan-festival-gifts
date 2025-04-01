@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-  background: url("https://mi.by/upload/iblock/ed6/9meb9wr83z6c7dbtcuh0jeiv5adndcx1.png");
+  background-image: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png"), linear-gradient(162deg, rgba(241, 233, 226, 1) 0%, rgba(210, 187, 168, 1) 49%, rgba(231, 221, 212, 1) 79%);
+  /*background: url("https://mi.by/upload/medialibrary/9ad/ssk0sdd03af58tizlg2jtx99c8qojnh2.png");*/
   background-size: 100% auto;
+  /*background-color: rgb(241, 233, 226);*/
   background-repeat: repeat;
+  /*background-color: linear-gradient(162deg, rgba(241, 233, 226, 1) 0%, rgba(210, 187, 168, 1) 49%, rgba(231, 221, 212, 1) 79%);*/
+  
 }
 
 body h1,
